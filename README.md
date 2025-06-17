@@ -32,3 +32,23 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
    - Final push: when last chance to reach the target
 
 ---
+
+
+## 🏗️ Architecture
+
+- This project follows the **MVVM (Model-View-ViewModel)** architecture:
+
+   ```
+   📁 com.example.dicegame
+   │
+   ├── 📁 viewmodel
+   │ └── GameModel.kt // Core game logic & state handling
+   │
+   ├── 📁 ui
+   │ ├── GameScreen.kt // Main game UI
+   │ └── MainActivity.kt // App launcher with navigation & dialogs
+   │
+   ├── 📁 resources
+   │ └── drawable/ // Dice images (dice_1.png to dice_6.png)
+   │
+   └── build.gradle.kts // Compose & Kotlin dependencies
