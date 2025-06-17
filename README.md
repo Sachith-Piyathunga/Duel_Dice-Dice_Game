@@ -33,6 +33,11 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
 
 ---
 
+- Home Screen
+
+ ![image alt](https://github.com/Sachith-Piyathunga/Duel_Dice-Dice_Game/blob/cc340fbcc6312bff16a8193c59ade9a50217f778/Image/1.png)
+
+---
 
 ## 🏗️ Architecture
 
@@ -67,3 +72,12 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
 | 🎨 Material 3         | UI design & components            |
 
 ---
+
+## 📦 Installation
+
+### Prerequisites
+- Android Studio Hedgehog or later
+- Kotlin 1.9.x or later
+- Android SDK 35
+
+### Steps
