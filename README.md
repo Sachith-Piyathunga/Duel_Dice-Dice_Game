@@ -121,3 +121,12 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
    - Final Round Strategy: Goes for high rolls to close the game.
    - Aggressive: Keeps even lower dice to catch up.
    - Conservative: Keeps only high-value dice when close to winning.
+
+---
+
+### 🙏 Acknowledgments
+
+- Thanks to the Kotlin and Android Jetpack Compose communities.
+- Referenced Kotlin coroutines and extension docs:
+   - https://kotlinlang.org/docs/coroutines-overview.html
+   - https://kotlinlang.org/docs/extensions.html
