@@ -18,3 +18,17 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
 - ⚠️ Dialogs for win/loss/tie-breaker situations
 
 ---
+
+## 🧩 Game Rules
+
+1. Each player (human and computer) rolls **5 dice**.
+2. Players can choose to **re-roll** unselected dice up to **3 times per round**.
+3. At the end of a round, each player's dice values are summed and added to their total score.
+4. The first player to reach or exceed the **target score** (default: 101) wins.
+5. If both reach the score in the same round, a **tie-breaker** occurs.
+6. The computer uses different strategies based on the game state:
+   - Aggressive: when behind in score
+   - Conservative: when close to winning
+   - Final push: when last chance to reach the target
+
+---
