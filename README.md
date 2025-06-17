@@ -103,6 +103,8 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
    - Select the emulator or connected device.
    - Click ▶️ "Run" to launch the game.
 
+---
+
 ### 🔧 How to Play
 
    - Tap on dice to select (hold) them for the next roll.
@@ -110,3 +112,12 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
    - Once done, click Score to add your total.
    - The computer will take its turn.
    - First to reach 101 wins the game!
+
+---
+
+### 🧠 Computer AI Strategy
+
+   - The computer selects dice to keep using a strategy defined in getComputerKeepDice():
+   - Final Round Strategy: Goes for high rolls to close the game.
+   - Aggressive: Keeps even lower dice to catch up.
+   - Conservative: Keeps only high-value dice when close to winning.
