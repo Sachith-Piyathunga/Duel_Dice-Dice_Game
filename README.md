@@ -52,3 +52,18 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
    │ └── drawable/ // Dice images (dice_1.png to dice_6.png)
    │
    └── build.gradle.kts // Compose & Kotlin dependencies
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool/Library         | Purpose                          |
+|----------------------|----------------------------------|
+| 🧑‍💻 Kotlin             | Programming language              |
+| 🧱 Jetpack Compose    | UI framework                      |
+| 🧠 ViewModel (MVVM)   | State management                  |
+| ⏱️ Kotlin Coroutines  | Handling delays & async logic     |
+| 🧪 JUnit, Espresso     | (Optional) UI & logic testing     |
+| 🎨 Material 3         | UI design & components            |
+
+---
