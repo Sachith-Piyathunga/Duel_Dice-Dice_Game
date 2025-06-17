@@ -95,3 +95,11 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
    ```bash
    git clone https://github.com/your-username/dice-duel.git
    cd dice-duel
+
+2. Open in Android Studio
+
+3. Build and Run
+
+   - Select the emulator or connected device.
+   - Click ▶️ "Run" to launch the game.
+
