@@ -90,3 +90,8 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
 - Android SDK 35
 
 ### Steps
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/dice-duel.git
+   cd dice-duel
