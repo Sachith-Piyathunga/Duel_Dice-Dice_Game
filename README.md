@@ -103,3 +103,10 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
    - Select the emulator or connected device.
    - Click ▶️ "Run" to launch the game.
 
+### 🔧 How to Play
+
+   - Tap on dice to select (hold) them for the next roll.
+   - You have 3 rolls per round.
+   - Once done, click Score to add your total.
+   - The computer will take its turn.
+   - First to reach 101 wins the game!
