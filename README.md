@@ -37,6 +37,10 @@ A simple, fun, and strategic 2-player dice game built using **Kotlin**, **Jetpac
 
  ![image alt](https://github.com/Sachith-Piyathunga/Duel_Dice-Dice_Game/blob/cc340fbcc6312bff16a8193c59ade9a50217f778/Image/1.png)
 
+- Dice Rolling Screen
+
+![image alt](https://github.com/Sachith-Piyathunga/Duel_Dice-Dice_Game/blob/db49701dabb844a33db573a25a435a355f87b898/Image/3.png)
+
 ---
 
 ## 🏗️ Architecture
